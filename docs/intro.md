@@ -29,7 +29,7 @@ El Token lo puede extraer desde la plataforma en el módulo USUARIOS, LOCALES Y 
 3. TOKEN: ckvGIvsL50RaDnFKZTdt9eXzABxy7snWxQr6MPn4EOMmPtKJcj
 
 ## JSON A ENVIAR
-```bash
+```bash 
 {
   "serie_documento": "F001",
   "numero_documento": "#",
