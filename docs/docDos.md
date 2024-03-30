@@ -11,5 +11,5 @@ Aqui tenemos el formulario mas el codigo del php que envia el contenido a shopif
  <center>  [![Descripción de la imagen](img/img8.png)](img/img8.png)</center> 
 
 ## Resultado en el shopify
-En esta parte veriamos las facturas resividas desde el formualrio
+En esta parte veriamos las facturas recibidas desde el formualrio
  <center>  [![Descripción de la imagen](img/img9.png)](img/img9.png)</center> 
